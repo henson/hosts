@@ -1,9 +1,10 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/henson/Hosts)](https://goreportcard.com/report/github.com/henson/Hosts)  [![Travis Status for henson/Hosts](https://travis-ci.org/henson/Hosts.svg?branch=master)](https://travis-ci.org/henson/Hosts)  [![GitHub release](https://img.shields.io/github/release/henson/Hosts.svg)](https://github.com/henson/Hosts/releases/tag/v1.0)
-
 # Hosts
+
 自动生成 Hosts 文件，科学上网
 
-![](1947422058.jpg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/henson/hosts)](https://goreportcard.com/report/github.com/henson/hosts)  [![Travis Status for henson/hosts](https://travis-ci.org/henson/hosts.svg?branch=master)](https://travis-ci.org/henson/hosts)  [![GitHub release](https://img.shields.io/github/release/henson/hosts.svg)](https://github.com/henson/hosts/releases/tag/v1.0)
+
+![《取经》](1947422058.jpg)
 
 图题《取经》（作者：@青红造了个白 ，侵删！）
 
@@ -46,12 +47,12 @@
 
 ### 直接下载可执行文件
 
-根据平台直接下载各版本运行文件： [releases](https://github.com/henson/Hosts/releases)
+根据平台直接下载各版本运行文件： [releases](https://github.com/henson/hosts/releases)
 
 ### 从源码编译本项目
 
 ```
-go get -u github.com/henson/Hosts
+go get -u github.com/henson/hosts
 ```
 
 ### 程序运行
@@ -85,7 +86,7 @@ go run hosts.go
 ```
 go build
 
-./Hosts
+./hosts
 ```
 
 ### 日常使用
